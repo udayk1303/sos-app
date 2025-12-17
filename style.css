@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #ff4b2b, #ff416c);
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top: 120px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 18px;
+}
+
+button {
+    background-color: #fff;
+    color: red;
+    border: none;
+    padding: 20px 40px;
+    font-size: 22px;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #ffe6e6;
+}
+
+table {
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+    border-collapse: collapse;
+    background: white;
+    color: black;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 12px;
+}
+
+th {
+    background-color: #ff4b2b;
+    color: white;
+}
+
+a {
+    color: blue;
+    font-weight: bold;
+}
